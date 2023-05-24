@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is miRx923
 ===============================================================================================================================
 
-I'm studying Artificial Inteligence at Technical University of Košice.
+I'm studying Artificial Inteligence.
 
 * 🧠  I'm currently learning PyTorch
-* ⚡  I love penguins and coffee🐧☕ and @tichyblazon
+* ⚡  I love penguins and coffee🐧☕ and <b>@tichyblazon</b>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -20,6 +19,7 @@ I'm studying Artificial Inteligence at Technical University of Košice.
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
+<div align="left"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.meme-arsenal.com%2Fmemes%2Ff3286e29227be675a786afe7f5f9e460.jpg&sp=1684968086Tc734835b12159c5fdd20de37aac915c72e8fdbf7026a51720a757708a1efe5b4" width="500"></div>
 
 ### Socials
 

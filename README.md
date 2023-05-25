@@ -29,15 +29,13 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 <br>
 
 <h3 align="center"> <b>My GitHub Stats</b></h3>
+
+![Contribution Snake gif](https://github.com/miRx923/miRx923/blob/output/github-contribution-grid-snake.svg)
+
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&hide_border=true&layout=compact&bg_color=000000" style="width: 50%" />

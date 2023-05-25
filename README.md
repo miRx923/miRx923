@@ -29,6 +29,8 @@
 
 </div>
 
+![Snake animation](https://github.com/miRx923/miRx923/blob/main/github-contribution-grid-snake.gif)
+
 <br>
 
 <h3 align="center"> <b>My GitHub Stats</b></h3>

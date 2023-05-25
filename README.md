@@ -19,7 +19,7 @@ I'm studying Artificial Inteligence.
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-<div align="left"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.meme-arsenal.com%2Fmemes%2Ff3286e29227be675a786afe7f5f9e460.jpg&sp=1684968086Tc734835b12159c5fdd20de37aac915c72e8fdbf7026a51720a757708a1efe5b4" width="500"></div>
+<div align="left"><img src="stitch.jpg" width="500"></div>
 
 ### Socials
 

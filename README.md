@@ -41,6 +41,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&hide_border=true&layout=compact&bg_color=000000" style="width: 50%" />
   
 <br><br>
+
+<img src="stitch2.jpg" width="300">
+
+<br><br>
   
 ![Profile views counter](https://komarev.com/ghpvc/?username=miRx923&&style=flat-square)  
 </div>

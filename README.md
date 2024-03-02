@@ -4,8 +4,8 @@
 <div align="center">
   <p align="center"> I'm studying Artificial Inteligence. </p>
   
-  <p align="center">  🧠  I'm currently learning ... </p>
-  <p align="center">  ⚡  I love penguins and coffee🐧☕ and <b>@tichyblazon </p>
+  <p align="center">  🧠  I'm currently learning HuggingFace Transformers and Docker </p>
+  <p align="center">  ⚡  I love penguins, coffee🐧☕ and <b>@tichyblazon </p>
 </div>
 
 

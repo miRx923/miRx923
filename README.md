@@ -25,7 +25,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" alt="CSS3" /></a>
 </p>
 
-<img src="stitch.jpg" width="500">
+<img src="stitch.jpg" width="501">
 
 </div>
 

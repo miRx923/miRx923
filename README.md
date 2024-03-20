@@ -41,7 +41,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&hide_border=true&layout=compact&bg_color=000000" style="width: 50%" /> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox&hide=jupyter%20notebook" style="width: 50%" />
 <!-- &hide= -->
 
 <!--<picture> -->

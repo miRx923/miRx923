@@ -38,8 +38,24 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&hide_border=true&layout=compact&bg_color=000000" style="width: 50%" />
-  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&hide_border=true&layout=compact&bg_color=000000" style="width: 50%" /> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox) -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox" style="width: 50%" />
+<!-- &hide= -->
+
+<!--<picture> -->
+<!--   <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture> -->
+
 <br><br>
 
 <img src="stitch2.jpg" width="300">

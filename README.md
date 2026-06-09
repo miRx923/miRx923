@@ -2,8 +2,6 @@
   <h1 align="center">Hi !<img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is miRx923</h1>
 
 <div align="center">
-  <p align="center"> I'm studying Artificial Inteligence. </p>
-  
   <!--<p align="center">  🧠  I'm currently learning HuggingFace Transformers and Docker </p>-->
   <p align="center">  ⚡  I love penguins and coffee🐧☕ </p>
 </div>

@@ -23,40 +23,42 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" alt="CSS3" /></a>
 </p>
 
-<img src="stitch.jpg" width="500">
+<!-- Stitch1 previously here -->
 
 </div>
 
 <br>
 
-<h3 align="center"> <b>My GitHub Stats</b></h3>
+<h3 align="center"><b>My GitHub Stats</b></h3>
 
 ![Contribution Snake gif](https://github.com/miRx923/miRx923/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&hide_border=true&layout=compact&bg_color=000000" style="width: 50%" /> -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox) -->
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=miRx923&hide_border=true&layout=compact&bg_color=000000" style="width: 50%" />
+<!-- ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox&hide=jupyter%20notebook" style="width: 50%" />
+<!-- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=miRx923&layout=compact&langs_count=20&theme=gruvbox&hide=jupyter%20notebook" style="width: 50%" /> -->
 <!-- &hide= -->
-
-<!--<picture> -->
-<!--   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture> -->
 
 <br><br>
 
-<img src="stitch2.jpg" width="300">
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=miRx923&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"
+  />
+  <!-- <source
+    srcset="https://github-stats-extended.vercel.app/api?username=miRx923&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  /> -->
+  <img src="https://github-stats-extended.vercel.app/api?username=miRx923&show_icons=true" />
+</picture>
+
+<br><br>
+
+<img src="stitch.jpg" width="500">
+<!-- <img src="stitch2.jpg" width="300"> -->
 
 <br><br>
   

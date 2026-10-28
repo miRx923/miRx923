@@ -51,14 +51,14 @@
 <!-- GitHub Universe 2026 Badge -->
 <details>
 <summary>GitHub Universe 2026 Badge</summary>
-<img src="virtual-universe-26-badge.gif"> <br>
+<img src="images/virtual-universe-26-badge.gif"> <br>
 </details>
 <!-- -->
 
 <br>
 
-<img src="stitch.jpg" width="500"> <br>
-<!-- <img src="stitch2.jpg" width="300"> <br> -->
+<img src="images/stitch.jpg" width="500"> <br>
+<!-- <img src="images/stitch2.jpg" width="300"> <br> -->
 
 <!-- Profile Views Counter -->
 ![Profile views counter](https://komarev.com/ghpvc/?username=miRx923&&style=flat-square)  

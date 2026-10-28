@@ -48,6 +48,15 @@
 
 <br><br>
 
+<!-- GitHub Universe 2026 Badge -->
+<details>
+<summary>GitHub Universe 2026 Badge</summary>
+<img src="virtual-universe-26-badge.gif"> <br>
+</details>
+<!-- -->
+
+<br>
+
 <img src="stitch.jpg" width="500"> <br>
 <!-- <img src="stitch2.jpg" width="300"> <br> -->
 
